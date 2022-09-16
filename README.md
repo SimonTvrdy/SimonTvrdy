@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Simon Tvrdy</h1>
 <h3 align="center">A student of a programming school.</h3>
-
+<img href="https://me.me/t/java">
 - 🔭 I’m currently working on **succesfull graduation**
 
 - 🌱 I’m currently learning **more complex Java**
