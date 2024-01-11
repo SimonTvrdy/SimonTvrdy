@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **more complex Java**
 
-- 📫 How to reach me **simon.tvrdy@student.spsmb.cz or tvrdy_simon21 on instagram**
+- 📫 How to reach me **simon.tvrdy@student.spsmb.cz or tvrdy_simon on instagram**
 
 
 
